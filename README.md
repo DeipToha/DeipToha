@@ -28,10 +28,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeipToha&show_icons=true&theme=tokyonight" />
+  🚀 Keep building, keep learning, keep improving.
 </p>
 
 ---
